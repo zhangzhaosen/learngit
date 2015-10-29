@@ -1,1 +1,2 @@
-print hello !
+#!user/bin
+i love you 
